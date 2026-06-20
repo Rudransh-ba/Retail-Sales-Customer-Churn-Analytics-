@@ -1,4 +1,4 @@
-etail Sales & Customer Churn Analytics Pipeline
+Retail Sales & Customer Churn Analytics Pipeline
 Overview
 
 This project combines Retail Sales Analysis and Customer Churn Analytics into a single end-to-end data analytics pipeline. The objective is to help businesses understand sales performance, identify customer behavior patterns, and predict potential customer churn using data-driven insights.
